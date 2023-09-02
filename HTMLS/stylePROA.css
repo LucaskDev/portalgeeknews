@@ -1,0 +1,14 @@
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+body {
+    background-color: #589EF5;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+div {
+    flex-direction: row;
+}

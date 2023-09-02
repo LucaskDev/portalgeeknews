@@ -1,0 +1,128 @@
+li {
+    font-weight: bold;
+    font-size: 23px;
+    padding-inline-start: 10px;
+    font-family: 'Open Sans', sans-serif;
+    text-align: center;
+}
+body{
+    background-image: url("./img/background.png");
+}
+h1{
+    color: rgb(255, 235, 235);
+    text-align: center;
+    font-family: 'Open Sans', sans-serif;
+    text-shadow: 3px 3px 20px #eb0f2c,
+    -2px 1px 30px #eb0f2c;
+    
+}
+h3{
+    text-align: center;
+    font-family: 'Open Sans', sans-serif;
+    color: white;
+    text-shadow: 3px 3px 15px #eb0f2c,
+    -2px 1px 20px #eb0f2c;
+}
+.rodape{
+    font-size: 15px;
+    font-weight: bolder;
+    color: aliceblue;
+    text-align: center;
+    font-family: 'Open Sans', sans-serif;
+    text-shadow: 3px 3px 15px #217CE5,
+    -2px 1px 20px #217CE5;
+}
+
+.coluna{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content:space-evenly;
+    color: rgb(152, 152, 152);
+    text-shadow: 3px 3px 15px #eb0f2c,
+    -2px 1px 20px #eb0f2c;
+}
+img{
+    width: 430px;
+    height: 309px;
+    border-radius: 20px;
+    justify-content: center;
+}
+
+#pokemon{
+    color: aliceblue;
+    text-align: center;
+    font-size: 19px;
+    font-weight: bolder;
+    font-family: 'Open Sans', sans-serif;
+    }
+#pokemonimg{
+    border: 4px solid #555;
+}
+#neymar{
+    color: aliceblue;
+    text-align: center;
+    font-size: 19px;
+    font-weight: bolder;
+    font-family: 'Open Sans', sans-serif;
+}
+#daleste{
+    color: aliceblue;
+    text-align: center;
+    font-size: 19px;
+    font-weight: bolder;
+    font-family: 'Open Sans', sans-serif;
+}
+#proa{
+    color: aliceblue;
+    text-align: center;
+    font-size: 19px;
+    font-weight: bolder;
+    font-family: 'Open Sans', sans-serif;
+}
+#langhtml{
+    color: aliceblue;
+    text-align: center;
+    font-size: 19px;
+    font-weight: bolder;
+    font-family: 'Open Sans', sans-serif;
+}
+#intocaveis{
+    color: aliceblue;
+    text-align: center;
+    font-size: 19px;
+    font-weight: bolder;
+    font-family: 'Open Sans', sans-serif;
+}
+#marcelo{
+    color: aliceblue;
+    text-align: center;
+    font-size: 19px;
+    font-weight: bolder;
+    font-family: 'Open Sans', sans-serif;
+}
+#eldenring{
+    color: aliceblue;
+    text-align: center;
+    font-size: 19px;
+    font-weight: bolder;
+    font-family: 'Open Sans', sans-serif;
+}
+#onepiece{
+    color: aliceblue;
+    text-align: center;
+    font-size: 19px;
+    font-weight: bolder;
+    font-family: 'Open Sans', sans-serif;
+}
+#colheitafeliz{
+    color: aliceblue;
+    text-align: center;
+    font-size: 19px;
+    font-weight: bolder;
+    font-family: 'Open Sans', sans-serif;
+}
+img{
+    border: 1px solid;
+    padding: 7px;
+    box-shadow: 10px 5px solid #ffffff;
+}
